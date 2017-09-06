@@ -1,0 +1,11 @@
+{
+  "name": "emg_adapter",
+  "version": "1.0.0",
+  "description": "应急广播协议模拟发送器",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyangli",
+  "license": "ISC"
+}
